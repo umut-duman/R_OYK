@@ -1,0 +1,15 @@
+---
+title: "sil"
+output: html_document
+date: "2023-08-30"
+---
+
+# Birinci Başlık
+
+fakgojdpogadspogfdgajgangnfhregr gfpghhafdspgjfğgakgk
+
+## İkinci başlık
+
+```{r}
+head(mtcars)
+```
